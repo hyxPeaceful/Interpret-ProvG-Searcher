@@ -41,5 +41,5 @@ To test a model, set the testing arguments to True.
 
 The model part of the code is forked from [neural-subgraph-learning-GNN repository](https://github.com/snap-stanford/neural-subgraph-learning-GNN).
 
-# Interpret-ProvG-Searcher
-可解释的溯源图搜索模型
+# Interpret-ProvG-Searcher 可解释的溯源图搜索模型
+

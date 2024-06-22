@@ -1,4 +1,5 @@
 data/
 node_feature/
+dataset_zip/
 *ipynb_checkpoints*
 *__pycache__*
